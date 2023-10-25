@@ -83,7 +83,7 @@ function App() {
         </article>
         <div className="text-white text-center pb-10 mt-5 text-[16px] text-white/70">
         <p>Host your new site on Kinsta. <a href="https://kinsta.com/application-hosting/" className="text-[#A99FFB] hover:text-white transition-all delay-100" >Start your free trial</a>.</p>
-        <p> via <a href="https://ryanswanstrom.com">Ryan Swanstrom</a>  </p>
+        <p> via <a href="https://ryanswanstrom.com">Ryan Swanstrom</a> Thanks for viewing </p>
         </div>
     </div>
     </div>
