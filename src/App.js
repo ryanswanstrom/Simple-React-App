@@ -16,7 +16,7 @@ function App() {
                 </g>
             </svg>
         </a>
-        <center><h2 className="text-white font-bold mb-4 text-[20px]">Ryan Swanstrom</h2></center>
+        <center><h2 className="text-white font-bold mb-4 text-[24px]">Ryan Swanstrom</h2></center>
         <article className="mt-4 rounded rounded-[40px] p-[2px] bg-gradient-to-b from-kinsta-shadow to-kinsta-shadow/0">
             <div className="inner rounded rounded-[40px] bg-kinsta-dark-blue lg:px-[40px] lg:py-[64px] px-[16px] py-[40px]">
             <div className="text-center text-white">
